@@ -1,4 +1,4 @@
-# Aircraft Passengers Forecasting
+# Passenger Traffic Forecasting for Airline Resource Planning
 > This project focuses on forecasting passenger traffic for a specific flight route by analyzing historical monthly data of passengers boarding the flights. The goal is to help the airline company better plan and allocate resources, such as aircrafts and flight attendants, during peak periods. Various time series analysis techniques have been applied, and different models have been fitted to generate accurate forecasts.
 
 
